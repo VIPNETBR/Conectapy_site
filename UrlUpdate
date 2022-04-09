@@ -19,7 +19,7 @@
       "TYPE": "premium",
       "FLAG": "py.png",
       "ServerIP": "13.227.125.218",
-      "CheckUser": "http://exemplo01.dominio.xyz:2095/checkUser",
+      "CheckUser": "URL: http://191.96.224.205:5454/checkUser",
       "ServerPort": "22",
       "SSLPort": "443",
       "USER": "",
