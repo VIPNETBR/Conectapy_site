@@ -1,10 +1,10 @@
 {
-  "Version": "1.4",
+  "Version": "1.0",
   "ReleaseNotes": "NUEVA VERSIÓN DISPONIBLE",
-  "UrlUpdate": "https://vipnetbr.github.io/conectapy_site/UrlUpdate",
-  "Sms": "https://vipnetbr.github.io/conectapy_site/UrlSms",
-  "EmailFeedback": "https://wa.me/+595973599867",
-  "UrlContato": "https://t.me/VIPNETBR",
+  "UrlUpdate": "https://raw.githubusercontent.com/VIPNETBR/conectapy_site/main/UrlUpdate",
+  "Sms": "",
+  "EmailFeedback": "https://t.me/netflixparaguayy",
+  "UrlContato": "https://t.me/netflixparaguayy",
   "UrlTermos": "https://vipnetbr.github.io/conectapy_site/termos.html",
   "CheckUser": "true",
   "FormatCheck": "yyyymmdd",
@@ -28,9 +28,9 @@
   ],
   "Networks": [
     {
-      "Name": "TIGO [BR-1 🇧🇷]",
+      "Name": "TIGO PY 01",
       "FLAG": "tim",
-      "Payload": "GET / HTTP/1.1[crlf]Host: d2o05zigceadb1.cloudfront.net[crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
+      "Payload": "GET / HTTP/1.1[crlf]Host: d1atuw0u7h4ays.cloudfront.net[crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
       "SNI": "[app_host]",
       "TlsIP": "13.227.125.218",
       "ProxyIP": "",
@@ -38,19 +38,9 @@
       "Info": "Tlsws"
     },
     {
-      "Name": "TIGO [BR-2 🇧🇷]",
+      "Name": "TIGO PY 02",
       "FLAG": "tim",
-      "Payload": "GET / HTTP/1.1[crlf]Host: d25919okx8w55h.cloudfront.net[crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
-      "SNI": "13.227.125.218",
-      "TlsIP": "13.227.125.218",
-      "ProxyIP": "",
-      "ProxyPort": "",
-      "Info": "Tlsws"
-    },
-    {
-      "Name": "TIGO [BR-3 🇧🇷]",
-      "FLAG": "tim",
-      "Payload": "GET / HTTP/1.1[crlf]Host: d12fl5swxlenj4.cloudfront.net[crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
+      "Payload": "GET / HTTP/1.1[crlf]Host: d1atuw0u7h4ays.cloudfront.net[crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
       "SNI": "13.227.125.218",
       "TlsIP": "13.227.125.218",
       "ProxyIP": "",
