@@ -1,5 +1,5 @@
 {
-  "Version": "2.0.9",
+  "Version": "2.0.10",
   "ReleaseNotes": "NUEVA VERSIÓN DISPONIBLE",
   "UrlUpdate": "https://raw.githubusercontent.com/VIPNETBR/conectapy_site/main/UrlUpdate",
   "Sms": "",
@@ -30,9 +30,9 @@
     {
       "Name": "TIGO PY STREAMING",
       "FLAG": "tim",
-      "Payload": "GET / HTTP/1.1[crlf]Host: d1fg0ct6pn1fry.cloudfront.net[crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
-      "SNI": "13.227.125.218",
-      "TlsIP": "13.227.125.218",
+      "Payload": "GET / HTTP/1.1[crlf]Host: d28mh8gaedfm1o.cloudfront.net[crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
+      "SNI": "52.85.213.227",
+      "TlsIP": "52.85.213.227",
       "ProxyIP": "",
       "ProxyPort": "",
       "Info": "Tlsws"
