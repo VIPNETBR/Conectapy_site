@@ -30,7 +30,7 @@
     {
       "Name": "TIGO PY STREAMING",
       "FLAG": "tim",
-      "Payload": "GET / HTTP/1.1[crlf]Host: d28mh8gaedfm1o.cloudfront.net[crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
+      "Payload": "GET / HTTP/1.1[crlf]Host: d1ycwzcq6f2pf7.cloudfront.net[crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
       "SNI": "52.85.213.227",
       "TlsIP": "52.85.213.227",
       "ProxyIP": "",
