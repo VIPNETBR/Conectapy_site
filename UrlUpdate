@@ -1,11 +1,11 @@
 {
-  "Version": "2.0.12",
+  "Version": "3.0",
   "ReleaseNotes": "NUEVA VERSIÓN DISPONIBLE",
   "UrlUpdate": "https://raw.githubusercontent.com/VIPNETBR/conectapy_site/main/UrlUpdate",
   "Sms": "",
-  "EmailFeedback": "https://t.me/netflixparaguayy",
+  "EmailFeedback": "",
   "UrlContato": "https://t.me/netflixparaguayy",
-  "UrlTermos": "https://vipnetbr.github.io/conectapy_site/termos.html",
+  "UrlTermos": "",
   "CheckUser": "true",
   "FormatCheck": "yyyymmdd",
   "Udp": [
@@ -18,8 +18,8 @@
       "Name": "PARAGUAY ILIMITADO",
       "TYPE": "premium",
       "FLAG": "py.png",
-      "ServerIP": "13.227.125.218",
-      "CheckUser": "URL: http://streaming.vipnetbr.xyz:5454/checkUser",
+      "ServerIP": "",
+      "CheckUser": "http://gontes.vpsmax-hd.tk:5454/checkUser",
       "ServerPort": "22",
       "SSLPort": "443",
       "USER": "",
@@ -28,14 +28,25 @@
   ],
   "Networks": [
     {
-      "Name": "TIGO PY STREAMING",
+      "Name": "TIGO PY-1",
       "FLAG": "tim",
-      "Payload": "GET / HTTP/1.1[crlf]Host: dd80or4euyqob.cloudfront.net[crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
-      "SNI": "52.85.213.227",
-      "TlsIP": "52.85.213.227",
+      "Payload": "GET / HTTP/1.1[crlf]Host: d2sb133zqueoy0.cloudfront.net[crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
+      "SNI": "13.227.85.92",
+      "TlsIP": "13.227.85.92",
       "ProxyIP": "",
       "ProxyPort": "",
       "Info": "Tlsws"
+    },
+    {
+      "Name": "TIGO PY-2",
+      "FLAG": "tim",
+      "Payload": "GET / HTTP/1.1[crlf]Host: defyudw2gzsxx.cloudfront.net[crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
+      "SNI": "13.227.85.92",
+      "TlsIP": "13.227.85.92",
+      "ProxyIP": "",
+      "ProxyPort": "",
+      "Info": "Tlsws"
+    },
     }
   ]
 }
